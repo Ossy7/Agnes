@@ -1,9 +1,10 @@
 Agnes App
+Version: 1.3.3
 
 DESCRIPTION
 
-Agnes is a GUI app written in Python version 2.7.14+ and PyQt4.
-It is a one (1) click statistics view of your database table (mysql-mariaDB, postgresql).
+Agnes is a script written in Python2 and compatible with python3.
+It is an analyses of your database table (mysql-mariaDB, postgresql).
 Agnes is dedicated to my mother for her unfailing love and encouragement.
 Agnes has the potential to run on most devices with little or no effort.
 
@@ -20,6 +21,6 @@ Developer
 Daniel Osinachi N.
 
 Date
-9-3-2018.
+05-10-2018.
 
 
